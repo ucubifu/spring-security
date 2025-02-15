@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SecurityTest
+server:
+  port: 8888
